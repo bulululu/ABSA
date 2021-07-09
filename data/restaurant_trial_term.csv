@@ -1,0 +1,370 @@
+,text,term,start,end,polarity
+5,"Not only was the food outstanding, but the little 'perks' were great.",food,17,21,positive
+12,Nevertheless the food itself is pretty good.,food,17,21,positive
+21,"It took half an hour to get our check, which was perfect since we could sit, have drinks and talk!",check,32,37,neutral
+25,The pizza is the best if you like thin crusted pizza.,pizza,4,9,positive
+38,Faan's got a great concept but a little rough on the delivery.,delivery,53,61,negative
+40,"From the incredible food, to the warm atmosphere, to the friendly service, this downtown neighborhood spot doesn't miss a beat.",atmosphere,38,48,positive
+57,"Three courses - choices include excellent mussels, puff pastry goat cheese and salad with a delicious dressing, and a hanger steak au poivre that is out of this world.",courses,6,13,neutral
+58,it's a perfect place to have a amanzing indian food.,indian food,40,51,positive
+59,The place is so cool and the service is prompt and curtious.,service,29,36,positive
+77,After really enjoying ourselves at the bar we sat down at a table and had dinner.,dinner,74,80,neutral
+89,Go here for a romantic dinner but not for an all out wow dining experience.,dining,57,63,positive
+94,The menu is very limited - i think we counted 4 or 5 entrees.,menu,4,8,negative
+108,The pizza was pretty good and huge.,pizza,4,9,positive
+121,"It may be a bit packed on weekends, but the vibe is good and it is the best French food you will find in the area.",French food,76,87,positive
+124,Right off the L in Brooklyn this is a nice cozy place with good pizza.,place,48,53,positive
+129,Our server checked on us maybe twice during the entire meal.,meal,55,59,neutral
+137,"I have tried to make reservations, but both times, the hostess didn't have my name.",reservations,21,33,neutral
+142,"An oasis of refinement:  Food, though somewhat uneven, often reaches the pinnacles of new American fine cuisine - chef's passion (and kitchen's precise execution) is most evident in the fish dishes and soups.",Food,25,29,conflict
+145,"An oasis of refinement:  Food, though somewhat uneven, often reaches the pinnacles of new American fine cuisine - chef's passion (and kitchen's precise execution) is most evident in the fish dishes and soups.",soups,202,207,positive
+160,Lahore is a great place to duck into late-night when you need some really tasty food on the cheap -- you'll likely have trouble finishing the amount of food you get for FOUR DOLLARS.,food,152,156,positive
+166,The wine selection (by the glass and bottle) is wonderful and I always recommend that friends make a reservation if they're going to be in town.,wine selection,4,18,positive
+171,"Order the panang duck, it's fantastic.",panang duck,10,21,positive
+179,"Luckily we saved room for the BBQ Salmon, Sea Bass and Crispy Duck.",Sea Bass,42,50,positive
+183,"Yes, they use fancy ingredients, but even fancy ingredients don't make for good pizza unless someone knows how to get the crust right.",pizza,80,85,negative
+198,The food always tastes fresh and served promptly.,served,33,39,positive
+225,"Our favorite meal is a pesto pizza, the house salad, and a good bottle of wine.",pesto pizza,23,34,positive
+239,"I understand the area and folks you need not come here for the romantic, alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods, the tastes, the experiance.",service,108,115,positive
+240,"I understand the area and folks you need not come here for the romantic, alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods, the tastes, the experiance.",foods,217,222,positive
+242,"I understand the area and folks you need not come here for the romantic, alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods, the tastes, the experiance.",sommlier,128,136,positive
+256,"The environment is romantic, but the food is horrible, the service is pathetic, and gabriella lies about everything she could.",food,37,41,negative
+270,"A narrow corridor leads to a tiny space where there are three tiny white tiled counters, a great deal of mess (stacks of bottles, cans) and a small counter holding 12-14 entrees.",space,34,39,negative
+272,"A narrow corridor leads to a tiny space where there are three tiny white tiled counters, a great deal of mess (stacks of bottles, cans) and a small counter holding 12-14 entrees.",counter,148,155,negative
+284,would have rather tried terrace in the sky or water club for that price,price,66,71,negative
+295,"The anti-pasta was excellent, especially the calamari, as were the filling pasta mains.",calamari,45,53,positive
+303,"We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.",ceviche mix (special),90,111,positive
+331,You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert.,dessert,98,105,positive
+344,"Get your food to go, find a bench, and kick back with a plate of dumplings.",food,9,13,neutral
+365,Lived in Shanghai most of my life and thought the food was comparable to the flagship Green Bo restaurant there.,food,50,54,positive
+367,"I highly recommend Cafe St. Bart's for their food, the ambience and wonderful service.",ambience,55,63,positive
+390,"The food was really good, I had the onion soup and it was one of the best ever.",onion soup,36,46,positive
+393,"Based on the reviews for dinner, this is a place I would reconsider revisiting for that, but definitely not for Dim Sum again.",Dim Sum,112,119,negative
+409,"If you want some roast duck, pork or chicken on rice with ginger, try them out!",chicken on rice with ginger,37,64,positive
+421,"We have never had any problems with charging the meal or the tip, and the food was delivered quickly, but we live only a few minutes walk from them.",meal,49,53,positive
+440,"The man that was hosting promised to save a table for our party of 7, then sat a party of 2 at the very table he was saving (mean while there were boths open all around).",table,104,109,negative
+449,"Decor is nice and minimalist, food simple yet very well presented and cooked, and the wine list matches the food very well.",Decor,0,5,positive
+457,We ordered a tuna melt - it came with out cheese which just made it a tuna sandwich.,cheese,42,48,neutral
+460,"Especially liked chicken tikka and the naan, and the dals.",naan,39,43,positive
+462,The waiters were not attentive except that the bill turned up on the table before we were finished.,waiters,4,11,negative
+479,"The overall price tag was very very expensive, something I did expect.",price tag,12,21,negative
+500,All we received was an apology as we left to see our show without dinner.,dinner,66,72,neutral
+502,The table next to us asked if he crushed the grapes himself when their long overdue bottle of wine finally arrived.,grapes,45,51,neutral
+505,Plain and simple it's bad thai food.,thai food,26,35,negative
+507,"While certain staples are excellent (the burger, some of the pastas), the food is not really the point.",burger,41,47,positive
+515,"The place is larger than most and features adequate seating unlike most joints, and has a bar which deserves a mention.",bar,90,93,positive
+525,The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.,price,94,99,negative
+526,"May, the owner always has a smile on her and will warmly greet you.",owner,9,14,positive
+527,The sides were ok and incredibly salty.,sides,4,9,negative
+532,"The beverages were excellent, and the dessert was good.",beverages,4,13,positive
+538,"Please if your thinking about it go, and stay the wait you won't be disappointed.",wait,50,54,negative
+546,"Otherwise, this place has great service and prices and a nice friendly atmosphere.",atmosphere,71,81,positive
+558,black white shakes came out good also.,black white shakes,0,18,positive
+572,"I wouldn't even have complained at all if the food at least tasted good but the quality of food was crappy, too.",food,46,50,negative
+576,The pizza is delicious and the proprietor is one of the nicest in NYC.,pizza,4,9,positive
+582,The Waitstaff were very nice and suggested swordfish for my husband he enjoyed his meal.,Waitstaff,4,13,positive
+593,"The Italian food has flavor (that can be sort of surprising on the UES), and the service turns from a nightmare to attentive,they sort of remind me of the NY Yankees of the late 90's, no matter how bad it look, you knew that there was a rally just around the corner...",service,81,88,conflict
+595,"I found the food to be outstanding, particulary the salmon dish I had.",salmon dish,52,63,positive
+615,i don't usually order wine with indian so i can't comment on their wine list or their wines.,wines,86,91,neutral
+625,The waitress was very patient with us and the food is phenomenal!,food,46,50,positive
+640,"otherwise, good stuff for late nite eats.",stuff,16,21,positive
+644,"I plan to come here again and look forward to trying their assortment of bruschetta, panini's.....",bruschetta,73,83,positive
+658,"delicious bagels, especially when right out of the oven.",bagels,10,16,positive
+672,"We parked on the block of Nina's the place looked nice, with people obviously enjoying their pizzas.",place,37,42,positive
+674,"The food is o.k., but not any better than what you get at a good neighborhood restaurant.",food,4,8,neutral
+681,"Orsay, is without a doubt one of the best values for authentic French food in NYC.",French food,63,74,positive
+715,Pair you food with the excellent beers on tap or their well priced wine list.,wine list,67,76,positive
+731,"The place is a little tight and on a cold day, the seating by the entranceway can be pretty drafty.",seating,51,58,negative
+754,"Probably much busier for lunch, it's seldom crowded for dinner (too close to downtown).",lunch,25,30,neutral
+763,"Good spreads, great beverage selections and bagels really tasty.",bagels,44,50,positive
+771,"Authentic food and they have REAL service, not just the rush you get sometimes when they try to push you out the door.",food,10,14,positive
+773,Stick to the gulab jamun.,gulab jamun,13,24,positive
+780,I was back-to-back with the diner at the table behind me and wait staff had to hoist trays over our heads as they squeezed past us again and again.,table,41,46,negative
+781,With the theater 2 blocks away we had a delicious meal in a beautiful room.,meal,50,54,positive
+797,"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.",dishes,72,78,positive
+817,I had Filet Mignon with garlic mash.,Filet Mignon with garlic mash,6,35,neutral
+827,"- the bread at the beginning is super tasty and makes you want more - the pizza is delicious and comes in personal sizes, however be warned that the Peter's Favourite pizza with prosciutto and baby arugula is actually a margarite pizza with cold prosciutto and baby arugula on top, like a salad.",Peter's Favourite pizza with prosciutto and baby arugula,149,205,neutral
+836,"While this isn't classical restaurant fare, the chef has given new life to an old cuisine with some really innovative and tasty dishes that are genuinely Indian without being heavy or same old restaurant burn-outs.",cuisine,82,89,neutral
+838,The owner truly caters to all your needs.,owner,4,9,positive
+851,Great romantic place for a date (try to get the corner booth table for a little privacy and to sit close!).,corner booth table,48,66,positive
+863,Example is the soup which was about 6 oz for $12 dollars and the mushrooms where $12 for about 1oz.,mushrooms,65,74,positive
+867,"From beginning appetizers, the scallops were incredible, to the delicious chocolate souffle with rasberry mint sorbet, we were delighted by the taste sensations.",scallops,31,39,positive
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",atmosphere,23,33,positive
+900,"My husband had the mesclun, salmon, and ice cream and he enjoyed all 3 courses.",salmon,28,34,positive
+903,We were told that the wait was about twenty minutes and there would be no problem for our 8:00 pm curtain call.,wait,22,26,neutral
+916,"It's not mind-blowing, but to me, thai food never is and never will be.",thai food,34,43,neutral
+923,It is kinda nosiy and the tables are close together but it's still a beautiful place to enjoy a nice dinner.,place,79,84,positive
+925,Nicky the Nose at the bar is a treat.,bar,22,25,neutral
+930,"I haven't eat a lamb chop as delicious as that,the salads are really nice dressed with lemon and extra virgnin olive oil.",extra virgnin olive oil,97,120,positive
+936,"The Pastrami sandwich was like buttah and with pickles and an icy cold beer to wash it down, it was a pleasurable experience.",beer,71,75,positive
+951,Went there with my wife and we had to wait for a table even though you could see there many that were empty with not reservation sigh on them.,table,49,54,negative
+963,"Growing up in NY, I have eaten my share of bagels.",bagels,43,49,neutral
+967,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",appetizers,8,18,positive
+973,"Besides having the table we had been promised given to other restaurant patrons twice before we were actually seated, we were served dishes we hadn't ordered three times, received one of our orders 20 minutes after the rest of the table had been served (and that order was undercooked), and charged $45 more than we should have been on our bill.",dishes,133,139,negative
+985,And the Tom Kha soup was pathetic.,Tom Kha soup,8,20,negative
+1014,they bring service up a notch by offerng complementary amuse bouche to all tables and gave us a small dessert for our celebration.,dessert,102,109,positive
+1035,"However, in the summer of 2003, it seems the management has changed and the great big door has been replaced for a glass front ridding itself of the dark romantic getup.",door,86,90,positive
+1043,"Barbecued codfish was gorgeously moist - as if poached - yet the fabulous texture was let down by curiously bland seasoning - a spice rub might have overwhelmed, however herb mix or other sauce would have done much to enhance.",sauce,188,193,negative
+1051,"But don't ever order bacon late at nite (either platter or in sandwiches, for that matter don't from any take out place) as it is from the morning frying turns out hard almost like bacos, hurt my molars.",bacon,21,26,negative
+1056,"Outstanding Bagels, but you get what you pay for.",Bagels,12,18,positive
+1083,I really loved the different and inovated touch that's the cheff gives to the food.,cheff,59,64,positive
+1089,"I had a terrific meal, and our server guided us toward a very nice wine in our price range, instead of allowing us to purchase a similarly priced wine that wasn't as good.",wine,146,150,negative
+1091,"I had a terrific meal, and our server guided us toward a very nice wine in our price range, instead of allowing us to purchase a similarly priced wine that wasn't as good.",priced,139,145,neutral
+1094,"The food is good, especially their more basic dishes, and the drinks are delicious.",dishes,46,52,positive
+1102,"I had the tuna tartare with sake, mushroom ravioli with pinot noir, and the chocolate sampler with a dessert wine for $49.",dessert wine,101,113,positive
+1104,The food is delicious and beautifully prepared along with the friendly and personable service.,food,4,8,positive
+1126,"First the wrong bread came out with the appetizer, then when i tried to order a second glass of wine for my main course...",glass of wine,87,100,neutral
+1168,There is also very limited seating and there can be a substantial wait in getting food at peak times.,food,82,86,neutral
+1178,If you like spicy food get the chicken vindaloo.,spicy food,12,22,neutral
+1189,Don't waste money on decor.,decor,21,26,neutral
+1191,They also have a back garden open in the summer - cute and French with outdoor seating - what more could you ask for?,outdoor seating,71,86,positive
+1195,I'd call it an 'italian dinner'.,dinner,24,30,neutral
+1198,Have frequented 'ino for several years and the food remains excellent.,food,47,51,positive
+1215,Try the spicy wontons and the salt pepper shrimps.,spicy wontons,8,21,positive
+1226,"We laughed when he finally offered us a dessert menu and we left a 10 percent tip, which was generous, I feel.",tip,78,81,positive
+1228,The staff ignored my friends and I the entire time we were there.,staff,4,9,negative
+1231,"The in-house lady DJ on Saturday nights has outrageously good taste in music, and moreover, takes requests.",in-house lady DJ,4,20,positive
+1233,"Great wine list, reasonably priced.--Sara",wine list,6,15,positive
+1243,I recieved prompt service with a smile.,service,18,25,positive
+1261,"not the food ,not the ambiance , not the service, I agree with the previous reviews you wait and wait , the wait staff are very rude and when you get in they are looking to get you right out .",ambiance,22,30,neutral
+1263,"not the food ,not the ambiance , not the service, I agree with the previous reviews you wait and wait , the wait staff are very rude and when you get in they are looking to get you right out .",wait staff,108,118,negative
+1264,I always get the Shabu-Shabu dinner and the beef is always fresh.,Shabu-Shabu dinner,17,35,neutral
+1278,"On the other hand, if you are not fooled easily, you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse, and food that will outshine in presentaion, taste, choice, quality and quantity.",presentaion,193,204,negative
+1294,"The owner is very friendly and a great guy, go try his pizza, you'll like it!",pizza,55,60,positive
+1299,"With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.",management,173,183,negative
+1303,The service is a little scatty at times but all is forgiven when the food arrives.,food,69,73,positive
+1306,"The bruscetta is a bit soggy, but the salads were fresh, included a nice mix of greens (not iceberg) all dishes are served piping hot from the kitchen.",dishes,105,111,positive
+1308,"The bruscetta is a bit soggy, but the salads were fresh, included a nice mix of greens (not iceberg) all dishes are served piping hot from the kitchen.",iceberg,92,99,neutral
+1344,Try the olive cream cheese or the lox spread on a whole wheat everything bagel.,olive cream cheese,8,26,positive
+1347,"they didn't disappoint, service from the second i arrived at the door was extremely pleasant and attentive with almost one server per table.",service,24,31,positive
+1352,The rice to fish ration was also good--they didn't try to overpack the rice.,rice,71,75,positive
+1357,"The only positive was the wait staff, which was prompt, knowledgable, and likeable.",wait staff,26,36,positive
+1365,My friend's food was also the complete opposite of what it's supposed to taste like (aND look like).,food,12,16,negative
+1372,"We have been to this place many times, and always have great food, wine, and service.",service,77,84,positive
+1375,The corned beef was tender and melted in my mouth.,corned beef,4,15,positive
+1380,"Haru serves very fresh fish, has a trendy, modern ambiance, prime location on Park Avenue South and friendly service.",ambiance,50,58,positive
+1381,"Haru serves very fresh fish, has a trendy, modern ambiance, prime location on Park Avenue South and friendly service.",location,66,74,positive
+1385,"Very romantic fires - I've literally spent hours at Lanterna, drinking wine from their extensive wine and enjoying the ambience.",wine,97,101,positive
+1388,"Always a nice crowd, but never loud.",crowd,14,19,positive
+1395,"Great food, great prices, great service.",prices,18,24,positive
+1399,Awsome Pizza especially the Margheritta slice.,Margheritta,28,39,positive
+1410,"The crispy chicken wasn't for us, though.",crispy chicken,4,18,negative
+1421,In reality (to maximize potential diners) they were still taking phone reservations and reallocating tables of those waiting in the lobby.,lobby,132,137,neutral
+1434,Go to Volare for 1st class service and terrific food.,service,27,34,positive
+1456,The drinks are always welll made and wine selection is fairly priced.,priced,62,68,positive
+1457,We also had shared a house salad that was fresh.,house salad,21,32,positive
+1459,And at the conclusion of this culinary nightmare the check was given to our table by knocking over a glass of water.,check,53,58,neutral
+1465,"The space is a bit too small for live music, so on  jazz nights, it can be loud and cramped.",jazz nights,52,63,neutral
+1479,Delicious food at a great price but do not go here on a cold day and sit by the front door.,food,10,14,positive
+1480,Delicious food at a great price but do not go here on a cold day and sit by the front door.,price,26,31,positive
+1481,Delicious food at a great price but do not go here on a cold day and sit by the front door.,front door,80,90,neutral
+1488,Pizza was a little soggy.,Pizza,0,5,negative
+1511,"NO more reservations, expensive tips and annoying stuff.",tips,32,36,positive
+1521,"During our meal, the management came over and checked on us and even bought us a round of drinks.",round of drinks,81,96,neutral
+1524,The menu choices are similar but the taste lacked more flavor than it looked.,taste,37,42,negative
+1528,"The portions are HUGE, so it might be good to order three things to split (rather than one appetizer and entree per person) for two people.",portions,4,12,positive
+1531,The appetizers are just OK and the main courses were decidedly subpar.,appetizers,4,14,neutral
+1534,The exotic food is beautifully presented and is a delight in delicious combinations.,exotic food,4,15,positive
+1544,Service was prompt and courteous.,Service,0,7,positive
+1552,"Only wine and beer are served, but the house varities are actually quite good.",house varities,39,53,positive
+1562,Decent wine selection too.,wine selection,7,21,positive
+1565,"It saves walking in and waiting for a table in the often noisy, crowded bar at dinnertime.",table,38,43,negative
+1574,great place to go for a drink too because they have 100 kinds of beer.,kinds of beer,56,69,positive
+1578,"Meanwhile, the bartender continued to pour champagne from his reserve after we had finished our bottle and we enjoyed an amuse of turnip soup with pureed basil, gratis.",bartender,15,24,positive
+1617,"The signs, the specials menus, food, and even all the waitstaff are ALL TOTALLY Japanese.",waitstaff,54,63,positive
+1630,The staff is also attentive and friendly.,staff,4,9,positive
+1637,All of the pizzas are terrific and the price is even better!,price,39,44,positive
+1671,"The flavors are great, and the menu is extensive.",menu,31,35,positive
+1677,The food has been consistant for years and it never lets you down.,food,4,8,positive
+1688,"After complaining about the chicken dish, the manager came over to tell us that, no one had ever complained before, and that we just didn't know what the dish was supposed to taste like.",dish,154,158,neutral
+1699,Went on a double date with friend and his girlfriend for a few drinks and appetizers.,drinks,63,69,neutral
+1736,"The chicken pot pie is excpetiona, the cheeseburger huge and delictable, and the service professional wan warm.",cheeseburger,39,51,positive
+1753,The quality of food at this restaurant accompanied  by fantastic live jazz makes this place a perfect 10!,live jazz,65,74,positive
+1778,Very affordable and excellent ambient!,ambient,30,37,positive
+1784,Why do people rave about the ambience.,ambience,29,37,negative
+1785,Were meeting up with some friends for a drink at Lafayette 161 and happened to walk by Thai Angel famished.,drink,40,45,neutral
+1793,They charge $6.00 for rice.,rice,22,26,negative
+1802,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",food-quality,63,75,positive
+1807,"From the spectacular caviar to the hospitable waitstaff, I felt like royalty and enjoyed every second of it.",caviar,21,27,positive
+1812,This little place definitely exceeded my expectations and you sure get a lot of food for your money.,food,80,84,positive
+1842,I really liked the noodle dishes at Rice Avenue compared to their Green Curry dish.,Green Curry dish,66,82,negative
+1865,A cool place to hang with your friends for a couple of healthy drinks and desserts.,desserts,74,82,positive
+1867,"I like Mamoun's food as well, but side by side, Kati Rolls just produce tastier food hands down.",food,16,20,positive
+1871,"The service is a bit slow, but harkens back to my years growing up in Napoli, Italy where things are not rushed and when you sit down for dinner the table is yours all night.",table,149,154,positive
+1872,But that wasn't the icing on the cake: a tiramisu that resembled nothing I have ever had.,icing on the cake,20,37,negative
+1873,But that wasn't the icing on the cake: a tiramisu that resembled nothing I have ever had.,tiramisu,41,49,negative
+1874,Great food and the prices are very reasonable.,food,6,10,positive
+1876,Wine list is not huge but def well selected.,Wine list,0,9,conflict
+1880,"Be sure to try the seasonal, and always delicious, specials.",specials,51,59,positive
+1883,"Fresh, authentic, french cuisine in substantial portions.",french cuisine,18,32,positive
+1884,"Fresh, authentic, french cuisine in substantial portions.",portions,48,56,positive
+1897,"Service was decent, but not as smooth as I would expect from a place with these prices and reputation.",reputation,91,101,positive
+1904,"Great food (spinach and corn dumplings and massamman curry), very friendly and no nonsense service and a clean and funky bathroom.",massamman curry,43,58,positive
+1907,"However, I was there for a work dinner not long ago when my colleague from London noticed a very large waterbug on the ceiling.",dinner,32,38,neutral
+1910,"Even though I made the reservation at 3pm for the same night through Dinnerbroker, we were seated at a table with one of the best view!",reservation,23,34,positive
+1914,"I didn't take a look at the rest menu, but the oysters were fantastic.",menu,33,37,neutral
+1947,"To begin, we were told there was a 30 minute wait and started to leave, when the hostess offered to call us on our cell phone when the table was ready.",table,135,140,positive
+1951,"Don't expect to sit down inside though, there are only a few tables and they are always full.",tables,61,67,negative
+1958,"The food was delicious (I had a halibut special, my husband had steak), and the service was top-notch.",service,80,87,positive
+1974,"but when we looked at the menu, there weren't a lot of choices, most of them were dumplings in the appetizer section.",appetizer,99,108,negative
+2000,The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great.,lobster sandwich,4,20,positive
+2001,The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great.,spaghetti with Scallops and Shrimp,37,71,positive
+2008,The worst excuse for Japanese food I've ever encountered.,Japanese food,21,34,negative
+2017,"Overall the restaurant is more expensive than our other sushi favorites, but everything was delicious.",sushi,56,61,neutral
+2041,We had the scallops as an appetizer and they were delicious and the sauce was wonderful.,appetizer,26,35,positive
+2043,We were also seated promptly at the time of our reservation and the service was very quick and professional.,service,68,75,positive
+2045,"You rarely have to wait for a seat and the currys (masaman, green, red) are full of flavor and come super spicy if you ask for it.",seat,30,34,positive
+2048,The food there are sastifying.,food,4,8,positive
+2052,The bar is very well stocked with interesting beers and well priced wines.,beers,46,51,positive
+2071,"When we sat, we got great and fast service.",service,35,42,positive
+2073,Service is average.,Service,0,7,neutral
+2074,But they've done a really nice job of offering all the typical pizzeria faves plus some terrific specials like the Godmother pizza (a sort of traditional flat pizza with an olive oil-brushed crust and less tomato sauce than usual).,Godmother pizza (a sort of traditional flat pizza with an olive oil-brushed crust and less tomato sauce than usual),115,230,positive
+2075,But they've done a really nice job of offering all the typical pizzeria faves plus some terrific specials like the Godmother pizza (a sort of traditional flat pizza with an olive oil-brushed crust and less tomato sauce than usual).,specials,97,105,positive
+2089,We ended the dinner with a surprisingly light and flaky apple tarte tatin.,apple tarte tatin,56,73,positive
+2091,The buffet had a nice selection.,buffet,4,10,positive
+2095,Service was slow had to wait to order and get food although not crowded.,food,46,50,neutral
+2098,"The food was below average, the service was pathetic, there was no ambience at all.",service,32,39,negative
+2113,"$160 for 2 filets, 2 sides, an appetizer and drinks.",appetizer,31,40,neutral
+2122,"The menu is Prix Fixe, so be prepared to spend at least $60 per person, but it is Well worth itsuperb food.",food,102,106,positive
+2140,Make sure you have the Spicy Scallop roll.. .,Spicy Scallop roll,23,41,positive
+2145,"Some of the workers ignore me and talk to the female customers, other times, they've skipped my order.",order,96,101,negative
+2159,Three of us arrived for dinner about 5:30 on a week night without reservations.,dinner,24,30,neutral
+2175,For dinner I had the chicken tikka-masala and some garlic naan.,garlic naan,51,62,neutral
+2180,Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went.,view,22,26,positive
+2215,"The best part of the experience was knowing that the manager (a bubbly, friendly young woman with a great smile) truly cared about how we were doing.",manager,53,60,positive
+2242,"The bread and lamb chops I had before the meal were quite good, however.",lamb chops,14,24,positive
+2244,Rao's has the best service and atmosphere in NYC.,service,19,26,positive
+2254,"The corned beef and pastrami are excellent, much less fatty than those big tourist places around Times Square.",corned beef,4,15,positive
+2271,Its worth the wait though.,wait,14,18,conflict
+2273,I've never had bad service and the fish is fresh and delicious.,fish,35,39,positive
+2280,"The staff has always been attentive and kind, and I've always been amazed at how they've handled all the various different group sizes that come in.",staff,4,9,positive
+2285,"The wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for Chinatown) alternative.",wait,4,8,negative
+2317,Should you happen to be impressed by the cuisine definitely try it.,cuisine,41,48,positive
+2321,"Yes, there might be a wait if you have no reservations.",wait,22,26,negative
+2363,i recommend the thai popcorn :),thai popcorn,16,28,positive
+2411,"I recommend the jelly fish, drunken chicken and the soupy dumplings, certainly the stir fry blue crab.",drunken chicken,28,43,positive
+2413,"I recommend the jelly fish, drunken chicken and the soupy dumplings, certainly the stir fry blue crab.",stir fry blue crab,83,101,positive
+2426,The food itself was just ok - nothing spectacular - but the service was awful.,service,60,67,negative
+2427,The pizza is yummy and I like the atmoshpere.,pizza,4,9,positive
+2439,"try the spicy shrimp appetizer (again, not the greatest value in the world but worth the price) and the lamb vindaloo is great.",price,89,94,conflict
+2451,Incredible food at a very agreable price brings me back just about every other day to this authentic Thai restaurant.,food,11,15,positive
+2453,"Also, if you don't want to sit at a certain table, you don't have to!",table,44,49,positive
+2454,The menu has lots of options: I hope to go back to try those potato pancakes.,menu,4,8,positive
+2455,The menu has lots of options: I hope to go back to try those potato pancakes.,potato pancakes,61,76,positive
+2458,"The staff isn't the friendliest or most competent, and I am stickler for service, but everything else about this place makes up for it.",service,73,80,negative
+2460,"My wife and I will usually only order one primi and one secondi and split them, as they tend to offer large portions.",secondi,56,63,positive
+2481,"If you are someone who appreciates the same things but hope to have food to spare or share, Kai may not be the best option.",food,68,72,neutral
+2504,"Service was very good - prompt, attentive and non-intrusive.",Service,0,7,positive
+2505,"My entree of hot pot with seafood was full of imitation crabmeat with a couple pieces of shrimp and squid, and was unnecessarily heated with a burner.",hot pot with seafood,13,33,negative
+2522,"If you want Americanized Chinese food with your usual watery, generic white sauce, this is your place.",Chinese food,25,37,neutral
+2526,"The bread is the soft paratha bread (unlike the plain bread they use in Calcutta), and the stuffing is tandoori styled and very flavorful.",stuffing,91,99,positive
+2537,The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.,food,143,147,negative
+2555,The entertainment was great they have shows that go on through out the dinner.,dinner,71,77,neutral
+2558,The food is so cheap and the waiters are nice.,waiters,29,36,positive
+2573,"If anyones has doubt of not knowing enough about wines,please check their wine list.",wine list,74,83,positive
+2574,"The only concern i have is with the slighly all-business waitstaff who order and throw the food down, rushing you out.",waitstaff,57,66,negative
+2584,The ambience is very romantic and definitely a good place to bring a date.,place,52,57,positive
+2588,"It is far more popular as a bar than as a restaurant, with only a few tables and the waiter being the bartender, but we greatly enjoyed the unobtrusive atmosphere.",bartender,102,111,neutral
+2592,"The food is very good for it's price, better than most fried dumplings I've had.",fried dumplings,55,70,negative
+2611,Our waiter and all of the people helping him were attentive and genuine.,waiter,4,10,positive
+2630,"Considering their price of $6.25 for lunch special, the dish was ridiculously small.",dish,56,60,negative
+2640,"Compared to Ess-a, Tal offers a less doughy bagel!",bagel,44,49,negative
+2648,We went to eat at the Jekyll and Hyde restaurant on Friday night and really enjoyed the fun atmosphere and good food.,food,112,116,positive
+2657,"I must warn the reader that the portions sizes are very small (especially the appetizers), so if you plan to eat until you are full and do not intend to order the chef's special tasting menu, prepare to order and pay for an appetizer (1 dish for each person because the portions are not for sharing), a main entree, and the cold udon at the end of the meal.",appetizers,78,88,negative
+2664,"I must warn the reader that the portions sizes are very small (especially the appetizers), so if you plan to eat until you are full and do not intend to order the chef's special tasting menu, prepare to order and pay for an appetizer (1 dish for each person because the portions are not for sharing), a main entree, and the cold udon at the end of the meal.",portions,270,278,negative
+2666,They were very abrupt with me when I called and actually claimed the food was late because they were out of rice.,rice,108,112,neutral
+2671,Nothing better than buying a snapple for $3.25 too.,snapple,29,36,positive
+2679,If I wanted to deal with a crappy scene and annoying customers I'd go out in Manhattan.,scene,34,39,negative
+2693,"The mussaman curry that I ordered was as thin as water and aside from the poorly fried tofu that I ordered in it, they graciously provided me with ONE piece of poorly cooked potato.",mussaman curry,4,18,negative
+2697,A restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,food,64,68,positive
+2727,Their whitefish salad is excellent--all whitefish with a little mayo.,whitefish,40,49,positive
+2736,"The chicken parm was edible but had canned tomato sauce and boxed pasta and the chicken with portobello mushrooms consisted of dry, inedible chicken with terrible sauce.",tomato sauce,43,55,negative
+2737,"The chicken parm was edible but had canned tomato sauce and boxed pasta and the chicken with portobello mushrooms consisted of dry, inedible chicken with terrible sauce.",pasta,66,71,negative
+2762,"It is nearly impossible to get a table, so if you ever have the chance to go here for dinner, DO NOT pass it up.",table,33,38,negative
+2779,"As for the bar, this is another bad idea.",bar,11,14,negative
+2785,What generous portions!,portions,14,22,positive
+2793,"I have been there many times, and food is good and consistent.",food,34,38,positive
+2807,We even had a visit from the Manager who wanted to make sure we were enjoying ourselves.,Manager,29,36,positive
+2818,It took them 15 minutes to put water in our glasses.,water,31,36,neutral
+2841,The food is inventive but still keeps traditional indian flavoring.,food,4,8,positive
+2847,Service was very friendly.,Service,0,7,positive
+2860,"This place doesn't compare with Mamoun's in terms of price, freshness, value, and consisent quality, but that's just my opinion.",price,53,58,negative
+2861,"This place doesn't compare with Mamoun's in terms of price, freshness, value, and consisent quality, but that's just my opinion.",freshness,60,69,negative
+2872,"The service was attentive, yet unimposing, the food was far better than many notorious restaurants in Midtown and the wine list is extensive and well priced.",service,4,11,conflict
+2890,A great way to make some money is to buy a case of snapple from Costco and sell it right outside for only $2.50.,case of snapple,43,58,neutral
+2894,"The staff is excellent, specjal: that girl behind the bar, european chic.",bar,54,57,neutral
+2899,"The service was bad, the food took to forever to come, we sat on the upper level.",food,25,29,negative
+2902,"We a menu that rearely changes,e xcept for one or two specials, the quality and care they put in thier food in evident.",food,103,107,positive
+2905,This restaurant is a wonderful place to go many times and it is reasonably priced.,priced,75,81,positive
+2911,The service is fine and they allow you to enjoy the view.,service,4,11,positive
+2916,"The food is good, but very expensive for the casualness of it.",food,4,8,conflict
+2919,The hot and sour soup was unbearably hot and tasted of only pepper and nothing else.,soup,17,21,negative
+2930,The atmosphere is much better than Sripraphai (more modern and sleek).,atmosphere,4,14,positive
+2954,"We love the food, drinks, and atmosphere!",drinks,18,24,positive
+2957,"Went on a 3 day oyster binge, with Fish bringing up the closing, and I am so glad this was the place it O trip ended, because it was so great!",place,95,100,positive
+2960,"Took my mom for Mother's Day, and the maitre d' was pretty rude.",maitre d',38,47,negative
+2961,My husband and I have been there a couple of times and each time we sat at the sushi bar (chef Yoshi) and ordered everything ala carte.,sushi bar,79,88,neutral
+2964,"The vibe is very relaxed and cozy, service was great and the food was excellent!",vibe,4,8,positive
+2969,The service was friendly and the atmosphere was casual.,service,4,11,positive
+2988,"Waitstaff is great, very attentive.",Waitstaff,0,9,positive
+3008,"The calamari comes with an incredible sauce, and the duck noodles are yummy as well.",duck noodles,53,65,positive
+3018,The bagels are also reasonably priced for NYC.,bagels,4,10,positive
+3021,"If you can handle that, it's a great place for a business dinner, fun with friends or simply a table for 2.",table,95,100,positive
+3026,"Our waiter was fine, the place looks nice in that not-trying-too-hard way, but at those prices, a little more should be expected of your food.",prices,88,94,negative
+3035,"I've been to this restaurant more than a dozen times and when I'm craving for Pho, Lemon grass chicken or Beef Cube on rice, this is the place to go.",Lemon grass chicken,83,102,positive
+3038,"The food is spectacular, from the appitizers to the main course, and then of course the desserts, (WOW) you'll need no more.",food,4,8,positive
+3050,The entire place and the treatment we received felt as a conveyor belt.,place,11,16,negative
+3051,Joe's Pizza used to have the best slice until this pizzeria opened up.,slice,34,39,positive
+3071,"The staff was very attentive, the ambience lovely, and the food superb.",ambience,34,42,positive
+3072,"The staff was very attentive, the ambience lovely, and the food superb.",food,59,63,positive
+3075,"I love when restaurants think using fancy expensive ingrediants makes the food fine cuisine, even with no idea how to use them.",food,74,78,positive
+3090,"- for dessert we split chocolate cake and vanilla gelato (with espresso), which were tasty, but I thought a bit overpriced.",chocolate cake,23,37,conflict
+3098,"I would definitely go back for a very special occasion, but not for regular fine dining.",dining,81,87,neutral
+3108,"This is such a lovely, peaceful place to eat outside.",place,32,37,positive
+3110,The sauce is delicious and the crust is perfect.,crust,31,36,positive
+3128,The garlic mashed potatoes are hands down the best in the city!,garlic mashed potatoes,4,26,positive
+3134,"Over time, the food quality has decreased substantially, it is a lot less crowded than it used to, and the service must definitely be part of the reason.",service,107,114,negative
+3146,"The wine list isn't great, and the desserts are shipped in from Bruno's down the street, which is not as good as it used to be.",desserts,35,43,negative
+3163,"Southern Indian cuisine is still there, too.",Southern Indian cuisine,0,23,neutral
+3206,If you have a dumpling fetish i suggest you try some here!,dumpling,14,22,positive
+3207,"Three page wine menu, one page entree and horedevous.",wine menu,11,20,positive
+3209,"Three page wine menu, one page entree and horedevous.",horedevous,42,52,positive
+3215,"If you're looking for a place to sit down, have a drink and conversations with friends, go to sweet-n-tart and order yourself a hong-kong styled milk and tea with tapioca pearls (hot).",drink,50,55,neutral
+3245,"If it isn't for the food (A+++), it must be the service or the ambience.",ambience,63,71,positive
+3279,"Even with a relatively inexpensive botle of wine, if you can call $70.00 inexpensive, the cost is through the roof for better than average fare.",cost,90,94,negative
+3283,The steak was very fatty and the sauce was overpowering and not very tasty.,steak,4,9,negative
+3288,The food is alright - some stuff is good - some is not (like the steak dish which tends to be dry).,food,4,8,conflict
+3297,The bagel was huge.,bagel,4,9,neutral
+3308,Service- friendly and attentive.,Service,0,7,positive
+3311,"Great food, great decor, great service.",decor,18,23,positive
+3312,"Great food, great decor, great service.",service,31,38,positive
+3319,"Yeah, sometimes the service can be slow.",service,20,27,negative
+3330,"They sell special sushi, everything have a topping, sauce and etc.",sushi,18,23,positive
+3332,"They sell special sushi, everything have a topping, sauce and etc.",topping,43,50,positive
+3333,DO not try unless you're just going there to hang out like the rest of the hipsters who apparently have no sense of taste.,taste,116,121,negative
+3350,I would highly recommend Nina's to anyone who wants to have a romantic dinner in a heart warming surrounding filled with candles and family pictures.,pictures,140,148,positive
+3366,I would recommend putting your name down and then getting a drink at a local bar first though because of the wait time.,wait time,109,118,negative
+3385,"The service was excellent, the food was excellent, but the entire experience was very cool.",service,4,11,positive
+3390,"Great spot, whether looking for a couple of drinks or quiet dinner.",spot,6,10,positive
+3413,"Good food at the restaurant (a bit expensive, but great if you want to impress your date).",food,5,9,positive
+3415,I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service.,service,93,100,positive
+3438,"I am a 100 lb girl, had a glass of wine and a glass of beer prior to the dinner, and I was still HUNGRY after my visit to this place!",glass of wine,26,39,neutral
+3442,"The drinks are a saving grace, but service staff, please, get over yourselves.",service staff,35,48,negative
+3443,There is a downside if you're ordering in -- the delivery guys have MAJOR attitude.,delivery guys,49,62,negative
+3446,The prices are exceptionally reasonable for food of this caliber.,food,44,48,positive
+3448,The filet mignon dish was superb!,filet mignon dish,4,21,positive
+3457,"The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo.",atmosphere,4,14,neutral
+3487,"If you go for the pre-theatre menu, it's an even greater deal.",pre-theatre menu,18,34,positive
+3510,The wine and cheese plate are plentiful and can't wait to try the fondue or table grilling.,fondue,66,72,positive
+3521,"Volare virgins or weekly regulars, everyone gets treated the same and you can't ask for more than that when the service is this friendly.",service,112,119,positive
+3539,The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt).,wasabi,117,123,positive
+3574,I've had to wait only a few times during lunch but this place is definitely worth the wait.,lunch,41,46,neutral
+3575,I've had to wait only a few times during lunch but this place is definitely worth the wait.,wait,86,90,positive
+3581,"Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",lunch buffet,109,121,positive
+3591,Try the Times Square cocktail -- ginger lemonade with vodka (also available without vodka.),ginger lemonade with vodka,33,59,positive
+3597,"The service was mediocre, and the lack of air conditioning made for a less than comfortable meal.",meal,92,96,negative
+3601,honestly the worst sushi my husband and i had in our entire lives.,sushi,19,24,negative
+3612,Interesting other dishes for a change include chicken in curry sauce and salmon caserole.,dishes,18,24,positive
+3637,The dish had like 6 pieces of beef in it.,beef,30,34,neutral
+3650,"A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.",table,44,49,neutral
+3657,"If you like the food and the value you get from some of Chinatown restaurants, this is not the place for you.",value,29,34,neutral
